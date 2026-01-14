@@ -46,7 +46,7 @@ Each line represents one audio sample:
 {
   "audio_file": "audio/sample_0001.wav",
   "text": "Why is the sky blue?",
-  "description": "cheerful child voice explaining science",
+  "description": "A female delivers a cheerful and medium-paced speech",
   "voice_name": "Leda",
   "style": "cheerful",
   "topic": "science",
